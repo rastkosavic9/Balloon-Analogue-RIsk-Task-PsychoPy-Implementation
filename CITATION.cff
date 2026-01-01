@@ -9,6 +9,7 @@ version: "1.0.0"
 date-released: "2026-01-01"
 license: "MIT"
 repository-code: "https://github.com/rastkosavic9/bart-psychopy"
+doi: "10.5281/zenodo.18121801"
 keywords:
   - PsychoPy
   - BART
